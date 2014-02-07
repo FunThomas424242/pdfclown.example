@@ -25,3 +25,8 @@ Die Lizenztexte sind hier zu finden:
 
 Lizenzangabe auf der originalen [Download Seite](http://www.stefanochizzolini.it/en/projects/clown/downloads.html)
 des Projektes. 
+
+Vergleich mit iText
+-------------------
+
+Ich selbst habe mir nicht extra die Zeit für einen Vergleich genommen. Denn iText ist seit Jahren auf dem Markt und hat eine stabile Produktreife erreicht. Mir ist nicht klar aus welchem Grund pdfclown entstanden ist (Lizenzgründe?, Konzeptgründe?, ...). Zum Glück haben sich bereits Andere im Internet damit befasst und so möchte ich gern auf einen gefundenen Vergleich verweisen. Wobei ich nicht beurteilen kann ob dieser Vergleich eher der Tenor oder eher die Ausnahme ist: [Vergleich PDFClown und iText](http://byitcurious.blogspot.de/2009/04/choosing-between-pdf-clown-and-itext.html)
